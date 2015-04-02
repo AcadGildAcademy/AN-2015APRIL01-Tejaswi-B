@@ -11,7 +11,7 @@ public class JavaIntroduction {
     public static void main(String[] args) 
     {
         Scanner in= new Scanner(System.in);
-        System.out.println("Enter the Months number");
+        System.out.println("Enter the Month number");
         int m=in.nextInt();
         switch(m)
         {
@@ -35,13 +35,6 @@ public class JavaIntroduction {
                 break;
             default:
                 System.out.println("Invalid Month");
-                
-    
-                
-                
-                
         }
-
     }
-    
-}
+  }
