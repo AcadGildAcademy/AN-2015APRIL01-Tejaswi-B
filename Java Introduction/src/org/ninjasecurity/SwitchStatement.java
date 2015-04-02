@@ -6,7 +6,7 @@ import java.util.Scanner;
  *
  * @author Tejaswi
  */
-public class JavaIntroduction {
+public class SwitchStatement {
    
     public static void main(String[] args) 
     {
